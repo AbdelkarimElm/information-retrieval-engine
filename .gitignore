@@ -1,0 +1,15 @@
+# Data
+*.json
+!*.ipynb
+*.zip
+*.npy
+*.pkl
+*.joblib
+*.csv
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+kaggle.json
