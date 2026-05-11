@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+word2number
+rank-bm25
+bm25s
+torch
+transformers
+sentence-transformers
+langchain-text-splitters
+umap-learn
+tqdm
+joblib
+kaggle
